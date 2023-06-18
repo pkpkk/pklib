@@ -4,5 +4,5 @@ Just some code snippets to do my work
 - To download playlist and video by resolution 
  ```sh
   ~$ python yutu.py -vq 144p -p playlist_url 
-  ~$ python yutu.py -vq video_url
+  ~$ python yutu.py -vq 480p video_url
   ```
